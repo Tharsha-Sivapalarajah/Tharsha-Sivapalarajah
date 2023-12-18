@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="your_image_url.jpg" alt="Tharsha">
+  <img src="https://drive.google.com/file/d/1vZR1XuqEa62qwAqkSVffdAo5Dc98Cpnz/view?usp=sharing" alt="Tharsha">
   <h2><b><i> Hello, I'm Tharsha 😊😊 </i></b></h2>
 </div>
 
