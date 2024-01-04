@@ -22,10 +22,10 @@
   <img align="center" alt="php" width="80px" height="30px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="mysql" width="80px" height="30px" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="react" width="80px" height="30px" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img align="center" alt="svelte" width="80px" height="30px" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   </div>
     <br/>
     <div align="center"">
+  <img align="center" alt="svelte" width="80px" height="30px" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img align="center" alt="tailwindcss" width="100px" height="30px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img align="center" alt="flutter" width="80px" height="30px" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img align="center" alt="playwright" width="100px" height="30px" src="https://img.shields.io/badge/Playwright-3B7C82?style=for-the-badge&logo=playwright&logoColor=white" />
@@ -33,6 +33,9 @@
   <img align="center" alt="elasticsearch" width="120px" height="30px" src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img align="center" alt="git" width="80px" height="30px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="github" width="100px" height="30px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </div>
+    <br/>
+    <div align="center"">
   <img align="center" alt="matlab" width="80px" height="30px" src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img align="center" alt="colab" width="100px" height="30px" src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
 </div>
@@ -51,10 +54,6 @@
      <br/>
      <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharsha-Sivapalarajah&theme=dark" />
-    <br/>
-     <br/>
-     <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Tharsha-Sivapalarajah&theme=dark" />
 
     
   </div>
