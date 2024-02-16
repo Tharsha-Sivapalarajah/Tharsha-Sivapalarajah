@@ -49,7 +49,7 @@
     <br/>
      <br/>
      <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Tharsha-Sivapalarajah&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Tharsha-Sivapalarajah&theme=dark&include_all_commits=true&count_private=true"/>
     <br/>
      <br/>
      <br/>
