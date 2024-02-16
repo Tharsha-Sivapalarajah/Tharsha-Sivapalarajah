@@ -49,7 +49,7 @@
     <br/>
      <br/>
      <br/>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tharsha-Sivapalarajah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tharsha-Sivapalarajah&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <br/>
      <br/>
      <br/>
