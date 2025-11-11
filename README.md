@@ -74,7 +74,7 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharsha-Sivapalarajah&theme=dark" /><br/><br/>
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tharsha-Sivapalarajah&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /><br/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharsha-Sivapalarajah&theme=dark" />
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharsha-Sivapalarajah&theme=dark" /> -->
   </div>
 
   <br/><br/>
